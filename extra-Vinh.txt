@@ -1,0 +1,6 @@
+# Ghi chú học Git
+- Lệnh git status giúp kiểm tra trạng thái file.
+- Lệnh git log xem lịch sử commit.
+- Lệnh git branch quản lý nhánh.
+- Lệnh git merge để gộp nhánh.
+- Lệnh git pull để lấy code mới từ remote.
