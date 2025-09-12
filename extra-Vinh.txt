@@ -1,10 +1,13 @@
-<<<<<<< HEAD
-# Ghi chú học Git
-- Lệnh git status giúp kiểm tra trạng thái file.
-- Lệnh git log xem lịch sử commit.
-- Lệnh git branch quản lý nhánh.
-- Lệnh git merge để gộp nhánh.
-- Lệnh git pull để lấy code mới từ remote.
-=======
-File bổ sung
->>>>>>> e529ce9b1597a8d6dd244c9fba35f6ba4ad086fa
+### Mục đích
+- Thêm chức năng quản lý bàn trong hệ thống.
+
+### Thay đổi chính
+- Thêm lớp TableController.cs để xử lý logic.
+- Cập nhật TableDAO.cs để hỗ trợ CRUD bàn.
+- Cập nhật giao diện MainForm để hiển thị danh sách bàn.
+
+### Cách kiểm thử
+- Chạy ứng dụng.
+- Vào màn hình quản lý bàn.
+- Thêm mới một bàn và kiểm tra hiển thị.
+
