@@ -1,1 +1,13 @@
-File bổ sung
+ Mục đích 
+- Thêm chức năng quản lý tài khoản trong hệ thống.
+
+Thay đổi chính 
+- Thêm lớp AccountController.cs để xử lý logic.
+- Cập nhật AccountDAO.cs để hỗ trợ CRUD tài khoản.
+- Cập nhật giao diện MainForm để hiển thị danh sách tài khoản.
+
+Cách kiểm thử 
+- Chạy ứng dụng.
+- Vào màn hình quản lý tài khoản.
+- Thêm mới một tài khoản và kiểm tra hiển thị.
+
